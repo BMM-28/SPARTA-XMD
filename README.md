@@ -1,194 +1,174 @@
-# 𝐒𝐏𝐀𝐑𝐓𝐀-𝐗𝐌𝐃
+<p align="center">  
+  <a href="https://whatsapp.com/channel/0029Vb0SOLfBfxoG91DqFd0a">
+    <img alt="QUEEN-SIA" src="https://files.catbox.moe/tpa8yo.jpg">
+  </a>
+</p>
 
-This is a WhatsApp bot built using the Baileys library for group management, including features like tagging all members, muting/unmuting, and many more. It's designed to help admins efficiently manage WhatsApp groups.
+----
 
-<div align="center"> 
-  <a href="https://git.io/typing-svg"> 
-    <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=𝐒𝐏𝐀𝐑𝐓𝐀-𝐗𝐌𝐃;𝐌𝐔𝐋𝐓𝐈+𝐃𝐄𝐕𝐈𝐂𝐄+𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏+𝐁𝐎𝐓;𝐂𝐎𝐃𝐄𝐃+𝐁𝐘+𝐒𝐏𝐀𝐑𝐓𝐀-𝟐𝟖" alt="Typing SVG" />
-  </a> 
-</div> 
+ <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&duration=4000&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=SPARTA+XMD+WHATSAPP+BOT;MULTI-DEVICE;CODED+BY+SPARTA+AND+X-FACTOR;FAST+SECURE+RELIABLE" alt="Typing SVG"/>
+</p>
 
-<div align="center"> 
-  <a href="https://youtube.com/@Sparta-28"> 
-    <img src="https://https://github.com/BMM-28/SPARTA-XMD/blob/main/assets/bot_image.jpg" alt="SPARTA-XMD" height="300"> 
-  </a> 
-</div>
+----
+----
+ **DOWNLOAD BOT ZIP**
 
----
+_Download Bot Zip file From the button Bellow_
+<p align="left">
+    <a href="https://codeload.github.com/BMM-28/SPARTA-XMD/zip/refs/heads/main" target="_blank">
+        <img alt="Download zip" src="https://img.shields.io/badge/Download Zip-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkorange&color=purple"/>
+    </a>
+</p>
 
-## 🚀 Steps to Deploy
-
-### Step 1: Fork the Repository
-
-Click the button below to fork the SPARTA-XMD repository to your GitHub account:
-
-<div align="center">
-  <a href="https://api.github.com/repos/BMM-28/SPARTA-XMD';">
-    <img src="https://img.shields.io/badge/Fork-Repository-blue?style=for-the-badge" alt="Fork the repository"/>
+> get Creds.json
+<div align="left">
+  <a href="https://sessions-june2.onrender.com" target="_blank">
+    <img src="https://img.shields.io/badge/Pair%20Code%20Server1-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkblue&color=darkgreen" alt="PAIR CODE"/>
   </a>
 </div>
-
----
-
-### Step 2: Get Pair Code
-
-Deploy the bot and easily connect it to your WhatsApp account by pair code. Click the button below to deploy the bot on Replit.
+** Information
 
 <div align="center">
-  <a href="https://replit.com/@DGXeon/Xeon-PairCode?v=1" target="_blank">
-    <img src="https://img.shields.io/badge/GET%20PAIR%20CODE-Replit-success?style=for-the-badge" alt="Deploy on Replit"/>
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://knight-bot-paircode.onrender.com" target="_blank">
-    <img src="https://img.shields.io/badge/GET%20PAIR%20CODE-Easy%20Method-ff4d4d?style=for-the-badge" alt="Generate Pair Code"/>
-  </a>
-</div>
-
-
-### After getting creds.json file, upload it to session folder
-
----
-
-### Step 3: Deploy Now
-
-For further customization and setup guidance, click the button below:
-
-<div align="center">
-  <a href="https://youtu.be/-oz_u1iMgf8">
-    <img src="https://img.shields.io/badge/Deploy Tutorial-dc3545?style=for-the-badge&logo=youtube" alt="YouTube Link"/>
-  </a>
-  <a href="https://bot-hosting.net/?aff=1068419752923508776">
-    <img src="https://img.shields.io/badge/Deploy on Panel-28a745?style=for-the-badge" alt="Deploy on Panel"/>
-  </a>
-</div>
-
-
-### Deploy Now on Below Panel
-<div align="center">
-<a href="https://dashboard.katabump.com/auth/login#d6b7d6" target="_blank">
-  <img src="https://img.shields.io/badge/Katabump-D6B7D6?style=for-the-badge&logo=server&logoColor=black" alt="Katabump"/>
+<a href="https://github.com/BMM-28/SPARTA-XMD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/BMM-28/SPARTA-XMD?label=Forks&color=blue&style=flat-square"></a>
+<a href="https://github.com/BMM-28/SPARTA-XMD/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/BMM-28/SPARTA-XMD?label=Stars&color=yellow&style=flat-square"></a>
+<a href="https://github.com/BMM-28/SPARTA-XMD/issues"><img title="Issues" src="https://img.shields.io/github/issues/BMM-28/SPARTA-XMD?label=Issues&color=success&style=flat-square"></a>
+<a href="https://github.com/BMM-28/SPARTA-XMD/repo-size"><img title="RepoSize" src="https://img.shields.io/github/repo-size/BMM-28/SPARTA-XMD?label=RepoSize&color=success&style=flat-square"></a>
+  <a href="https://discord.gg/fZ7MVJM9sq">
+  <img title="Join our Discord" src="https://img.shields.io/discord/1391898062494105752?label=Discord&logo=discord&logoColor=white&style=flat-square&color=7289DA" alt="Discord">
 </a>
 </div>
 
-### Join Us
+## Join Discord
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/fZ7MVJM9sq)
 
-<div align="center">
-  <a href="https://t.me/+0fvvk4gEV9oxN2Q0">
-    <img src="https://img.shields.io/badge/Join%20Telegram-0078E7?style=for-the-badge&logo=telegram&logoColor=white" alt="Join Telegram"/>
-  </a>
-  <a href="https://whatsapp.com/channel/0029Vb0SOLfBfxoG91DqFd0a">
-    <img src="https://img.shields.io/badge/Join%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Join WhatsApp"/>
-  </a>
-</div>
+----
 
+## Deployment
+<p align="center">
+  <table>
+    <tr>
+      <th>Platform</th>
+      <th>Deploy Button</th>
+    </tr>
+    <tr>
+      <td>Koyeb</td>
+      <td>
+        <a href="https://app.koyeb.com/services/deploy?type=git&repository=BMM-28/SPARTA-XMD&ports=3000">
+          <img src="https://img.shields.io/badge/Deploy_to-Koyeb-blueviolet?style=for-the-badge&logo=koyeb&logoColor=white" alt="Deploy to Koyeb">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>Railway</td>
+      <td>
+        <a href="https://railway.app/new">
+          <img src="https://img.shields.io/badge/Deploy_to-Railway-black?style=for-the-badge&logo=railway&logoColor=white" alt="Deploy to Railway">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>Replit</td>
+      <td>
+        <a href="https://repl.it/github/BMM-28/SPARTA-XMD">
+          <img src="https://img.shields.io/badge/Deploy_to-Replit-orange?style=for-the-badge&logo=replit&logoColor=white" alt="Deploy to Replit">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>Render</td>
+      <td>
+        <a href="https://dashboard.render.com/web/new">
+          <img src="https://img.shields.io/badge/Deploy_to-Render-brown?style=for-the-badge&logo=render&logoColor=white" alt="Deploy to Render">
+        </a>
+      </td>
+    </tr>
+  </table>
+</p>
+
+**You can also deploy in codespace and panel.**
+
+#### Deploy to Heroku
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/GlobalTechInfo/GLOBAL-XMD)
+
+#### Heroku Buildpack
+| Build Pack | LINK |
+|--------|--------|
+| **NODEJS** | heroku/nodejs |
+| **FFMPEG** | [here](https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest) |
+| **WEBP** | [here](https://github.com/clhuang/heroku-buildpack-webp-binaries.git) |
+| **IMAGEMAGICK** | [here](https://github.com/DuckyTeam/heroku-buildpack-imagemagick) |
+
+----
+## For Windows/VPS/RDP User
+* Download And Install Git [`Click Here`](https://git-scm.com/downloads)
+* Download And Install NodeJS [`Click Here`](https://nodejs.org/en/download)
+* Download And Install FFmpeg [`Click Here`](https://ffmpeg.org/download.html) (**Don't Forget Add FFmpeg to PATH enviroment variables**)
+* Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
+
+```bash
+git clone https://github.com/BMM-28/SPARTA-XMD
+cd QUEEN-SIA-MD
+npm install
+node index --pairing-code
+```
 ---
 
-## ⚙️ Features
+## For Termux/Ubuntu/SSH User
+```
+apt update && apt upgrade -y
+```
+```
+pkg install proot-distro
+```
+```
+proot-distro install ubuntu
+```
+```
+proot-distro login ubuntu
+```
+```
+apt update && apt upgrade -y
+```
+```
+apt install -y webp git wget curl ffmpeg imagemagick
+```
+```
+apt -y remove nodejs
+curl -fsSl https://deb.nodesource.com/setup_20.x | bash - && apt -y install nodejs
+```
+```
+git clone https://github.com/BMM-28/SPARTA-XMD
+```
+```
+cd QUEEN-SIA-MD
+npm install
+```
+```
+node index --pairing-code
+```
 
-- **Tag all group members** with the `.tagall` command
-- **Admin restricted usage** (Only group admins can use certain commands)
-- **Games** like Tic-Tac-Toe for interactive group engagement
-- **Text-to-Speech** with `.tts`
-- **Sticker creation** with `.sticker`
-- **Anti-link detection** for group safety
-- **Warn and manage group members** with admin control
+----
+----
 
----
+## Connection
 
-## 📖 About
-
-The Sparta-xmd WhatsApp Bot assists group admins by providing them with tools to efficiently manage large WhatsApp groups. The bot uses the Baileys library to interact with the WhatsApp Web API and supports multi-device features.
-
-It is lightweight and can be easily customized to add more commands as per your requirements. The bot runs in a Node.js environment and provides QR code-based authentication to link your WhatsApp account.
-
----
-
-## 🛠️ Setup & Installation
-
-### Prerequisites
-
-- Node.js installed on your system
-- Git installed (for cloning the repository)
-
-### Step-by-Step Setup
-
-1. **Clone the repository:**
-
-    ```bash
-    git clone https://github.com/BMM-28/SPARTA-XMD.git
-    cd SPARTA-XMD
-    ```
-
-2. **Install the dependencies:**
-
-    ```bash
-    npm install
-    ```
-
-3. **Run the bot:**
-
-    ```bash
-    node index.js
-    ```
-
-4. **Scan the QR code:**
-
-    Once the bot starts, a QR code will appear in the terminal. Scan this QR code using the Linked Devices feature in WhatsApp to connect your WhatsApp account with the bot.
-
----
+- **Qr Code** `node index --qr`
+- **Pairing Code** `node index --pairing-code`
+----
+----
+## Features
+| Menu     | Bot | Group | Search | Download | Tools | Ai | Game | Fun | Owner |
+| -------- | --- | ----- | ------ | -------- | ----- | -- | ---- | --- | ----- |
+| Work     |  ✅  |   ✅   |    ✅    |     ✅     |   ✅   | ✅ |   ✅   |  ✅  |    ✅    |
 
 
-## 📄 License
+License: [Apache License](http://www.apache.org/licenses/)
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE](https://github.com/BMM-28/SPARTA-XMD/blob/main/LICENSE) file for details.
+## Support Me
+- [Subscribe](https://youtube.com/@queensia-254?si=GJW7mGvjBjKssGmS)
 
----
-
-## 🙌 Contributions
-
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/BMM-28/SPARTA-XMD/issues).
-
----
-
-## 🌟 Show your support
-
-If you like this project, please give it a [⭐️ star on GitHub](https://github.com/BMM-28/SPARTA-XMD)!
+----
 
 
-## Credits
 
-- [Creator](https://github.com/BMM-28)
-- [Baileys](https://github.com/adiwajshing/Baileys)
-- [TechGod143](https://github.com/TechGod143) for pair code
-- [Dgxeon](https://github.com/Dgxeon) for pair code
-
----
-
-## ⚠️ Important Warning
-
-**Note:** This bot is created for educational purposes only. This is NOT an official WhatsApp bot. Using this bot may lead to your WhatsApp account being banned. Use it at your own risk. The developers will not be responsible for any consequences or account bans that may occur while using this bot.
-
-## 📝 Legal
-
-- This project is not affiliated with, authorized, maintained, sponsored or endorsed by WhatsApp or any of its affiliates or subsidiaries.
-- This is an independent and unofficial software. Use at your own risk.
-- Do not spam people with this bot.
-- Do not use this bot to send bulk messages or for illegal purposes.
-- The developers assume no liability and are not responsible for any misuse or damage caused by this program.
-
-### License
-This project is licensed under the MIT License. However, you must:
-- Use this software in compliance with all applicable laws and regulations
-- Include original license and copyright notices
-- Credit original authors
-- Not use for spam or malicious purposes
-
-## 📜 Copyright Notice
-
-Copyright (c) 2024 Professor. All rights reserved.
-
-This project contains code from various open source projects:
-- Baileys (MIT License)
-- Other libraries as listed in package.json
