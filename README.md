@@ -23,7 +23,7 @@ _Download Bot Zip file From the button Bellow_
 
 > get Creds.json
 <div align="left">
-  <a href="https://queensia-mini-bot-pairing-ofc.onrender.com" target="_blank">
+  <a href="https://sparta-xmd-pairing-web.onrender.com/" target="_blank">
     <img src="https://img.shields.io/badge/Pair%20Code%20Server-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkblue&color=darkgreen" alt="PAIR CODE"/>
   </a>
 </div>
